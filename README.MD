@@ -104,7 +104,7 @@ Jika kamu ingin membantu memperluas fitur, silakan fork dan kirim PR.
 
 ---
 
-## 📄 Lisensi
+## 📄 Lisensi (https://github.com/SakumDisiniPa/confert-pdf-to-image/blob/main/LICENSE)
 
 MIT License — bebas digunakan dan dimodifikasi, mohon tetap mencantumkan atribusi.
 
