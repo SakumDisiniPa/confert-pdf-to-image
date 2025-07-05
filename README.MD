@@ -100,7 +100,7 @@ npm run dev
 ## 🤝 Kontribusi
 
 Pull Request sangat terbuka!
-Jika kamu ingin membantu memperluas fitur (misal: compress JPG, tambahkan OCR, atau drag preview), silakan fork dan kirim PR.
+Jika kamu ingin membantu memperluas fitur, silakan fork dan kirim PR.
 
 ---
 
