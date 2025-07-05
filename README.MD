@@ -4,9 +4,6 @@
   <a href="https://github.com/SakumDisiniPa/confert-pdf-to-image/blob/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg" />
   </a>
-</p>
-
-<p align="center">
   <img alt="React" src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white&style=flat-square" />
   <img alt="Vite" src="https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white&style=flat-square" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
@@ -110,8 +107,9 @@ npm run dev
 
 ## 📷 Preview
 
-![Preview UI](https://i.ibb.co/S7sYs8QH/Screenshot-from-2025-07-05-21-29-09.png)
-
+<p align="center">
+  ![Preview UI](https://i.ibb.co/S7sYs8QH/Screenshot-from-2025-07-05-21-29-09.png)
+</p>
 
 ## 🤝 Kontribusi
 
