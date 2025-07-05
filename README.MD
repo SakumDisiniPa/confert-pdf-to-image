@@ -8,7 +8,7 @@
   <img alt="Vite" src="https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white&style=flat-square" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
   <img alt="Python" src="https://img.shields.io/badge/Backend-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
+  <img alt="Flask" src="https://img.shields.io/badge/API-Flask-000000?logo=flask&logoColor=white&style=flat-square" />
   <img alt="pdf2image" src="https://img.shields.io/badge/Lib-pdf2image-yellow?style=flat-square" />
   <img alt="Pillow" src="https://img.shields.io/badge/Image-Pillow-lightgrey?style=flat-square" />
 </p>
