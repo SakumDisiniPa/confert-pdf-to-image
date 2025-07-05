@@ -72,7 +72,6 @@ cd backend
 python -m venv venv
 source venv/bin/activate      # atau venv\\Scripts\\activate di Windows
 pip install -r requirements.txt
-# (jika belum buat, install secara manual:)
 
 # Install Poppler (Ubuntu/Debian):
 sudo apt install poppler-utils
