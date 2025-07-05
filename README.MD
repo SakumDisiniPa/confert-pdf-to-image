@@ -1,5 +1,7 @@
 # 📸 PDF to Image Converter
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SakumDisiniPa/confert-pdf-to-image/blob/main/LICENSE)
+
 A powerful, privacy-focused tool to convert your PDF files into high-quality images (PNG, JPG, TIFF, BMP) — locally, quickly, and for free.
 
 ---
@@ -104,7 +106,7 @@ Jika kamu ingin membantu memperluas fitur, silakan fork dan kirim PR.
 
 ---
 
-## 📄 Lisensi (https://github.com/SakumDisiniPa/confert-pdf-to-image/blob/main/LICENSE)
+## 📄 Lisensi
 
 MIT License — bebas digunakan dan dimodifikasi, mohon tetap mencantumkan atribusi.
 
