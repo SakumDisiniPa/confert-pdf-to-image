@@ -1,6 +1,20 @@
 # 📸 PDF to Image Converter
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SakumDisiniPa/confert-pdf-to-image/blob/main/LICENSE)
+<p align="center">
+  <a href="https://github.com/SakumDisiniPa/confert-pdf-to-image/blob/main/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  </a>
+</p>
+
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white&style=flat-square" />
+  <img alt="Vite" src="https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white&style=flat-square" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
+  <img alt="Python" src="https://img.shields.io/badge/Backend-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
+  <img alt="pdf2image" src="https://img.shields.io/badge/Lib-pdf2image-yellow?style=flat-square" />
+  <img alt="Pillow" src="https://img.shields.io/badge/Image-Pillow-lightgrey?style=flat-square" />
+</p>
 
 A powerful, privacy-focused tool to convert your PDF files into high-quality images (PNG, JPG, TIFF, BMP) — locally, quickly, and for free.
 
@@ -115,7 +129,7 @@ MIT License — bebas digunakan dan dimodifikasi, mohon tetap mencantumkan atrib
 ## 👤 Developer
 
 **Sakum Tala**
-🛠️ Full-Stack Developer
+🛠️ Full-Stack Web Developer
 🔗 [GitHub](https://github.com/SakumDisiniPa) | [LinkedIn](https://www.linkedin.com/in/sakum-tala-6b304a348/)
 
 ---
