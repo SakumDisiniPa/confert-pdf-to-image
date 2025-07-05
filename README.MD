@@ -108,7 +108,7 @@ npm run dev
 ## 📷 Preview
 
 <p align="center">
-  ![Preview UI](https://i.ibb.co/S7sYs8QH/Screenshot-from-2025-07-05-21-29-09.png)
+  <img alt="Preview" src="https://i.ibb.co/S7sYs8QH/Screenshot-from-2025-07-05-21-29-09.png" />
 </p>
 
 ## 🤝 Kontribusi
