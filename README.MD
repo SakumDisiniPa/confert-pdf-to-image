@@ -1,4 +1,3 @@
-```
 # 📸 PDF to Image Converter
 
 A powerful, privacy-focused tool to convert your PDF files into high-quality images (PNG, JPG, TIFF, BMP) — locally, quickly, and for free.
